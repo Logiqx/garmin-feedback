@@ -22,13 +22,13 @@ Anything pertaining to accurate GNSS data is deemed to be priority 1, and everyt
 
 ### Issues
 
-| Title                                                        | Issue | Enhancement | Priority |
-| ------------------------------------------------------------ | :---: | :---------: | :------: |
-| [FIT persistence issues - universal to all Garmin watches](https://github.com/Logiqx/garmin-issues/issues/4) |   ✅   |      ✅      |    1     |
-| [Toybox.Position.Info appears to be truncating "when"](https://github.com/Logiqx/garmin-issues/issues/3) |   ✅   |      ✅      |    1     |
-| [fenix 8 Pro - FIT metadata missing with SW 24.12 + GPS 11.04](https://github.com/Logiqx/garmin-issues/issues/5) |   ✅   |             |    2     |
-| [CIQ Simulator does not use FIT record timestamp during playback](https://github.com/Logiqx/garmin-issues/issues/13) |   ✅   |      ✅      |    2     |
-| [GPX export - issues and enhancements](https://github.com/Logiqx/garmin-issues/issues/7) |   ✅   |      ✅      |    2     |
+| Title                                                        | Issue | Priority |
+| ------------------------------------------------------------ | :---: | :------: |
+| [FIT persistence issues - universal to all Garmin watches](https://github.com/Logiqx/garmin-issues/issues/4) |   ✅   |    1     |
+| [Toybox.Position.Info appears to be truncating "when"](https://github.com/Logiqx/garmin-issues/issues/3) |   ✅   |    1     |
+| [fenix 8 Pro - FIT metadata missing with SW 24.12 + GPS 11.04](https://github.com/Logiqx/garmin-issues/issues/5) |   ✅   |    2     |
+| [CIQ Simulator does not use FIT record timestamp during playback](https://github.com/Logiqx/garmin-issues/issues/13) |   ✅   |    2     |
+| [GPX export - issues and enhancements](https://github.com/Logiqx/garmin-issues/issues/7) |   ✅   |    2     |
 
 
 
