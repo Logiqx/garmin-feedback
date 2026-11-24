@@ -1,11 +1,7 @@
 # garmin-feedback
-Garmin watches have been gaining popularity for sites such as [GPS-Speedsurfing](https://www.gps-speedsurfing.com/) and [Speedsurf.app](https://speedsurf.app/) in recent years.
+Garmin watches have been gaining popularity for sites such as [GPS-Speedsurfing](https://www.gps-speedsurfing.com/) and [Speedsurf.app](https://speedsurf.app/) in recent years. This repo describes a number of issues / bugs relating to the current Garmin watches, and some desirable enhancements.
 
-This repo describes a number of issues / bugs relating to the current Garmin watches, and some desirable enhancements.
-
-Everything has been captured as Github "issues", and this page serves as table of contents with perceived priorities.
-
-Anything pertaining to accurate GNSS data is deemed to be priority 1, and everything else is priority 2. 
+Everything has been captured as Github "issues", and this page serves as table of contents with perceived priorities. Anything pertaining to accurate GNSS data is deemed to be priority 1, and everything else is priority 2. 
 
 
 
