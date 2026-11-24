@@ -1,5 +1,7 @@
 # garmin-feedback
-Garmin watches have been gaining popularity for sites such as [GPS-Speedsurfing](https://www.gps-speedsurfing.com/) and [Speedsurf.app](https://speedsurf.app/) in recent years. This repo describes a number of issues / bugs relating to the current Garmin watches, and some desirable enhancements.
+Garmin watches have been gaining popularity for sites such as [GPS-Speedsurfing](https://www.gps-speedsurfing.com/) and [Speedsurf.app](https://speedsurf.app/) in recent years.
+
+This Github repository describes a number of issues + bugs relating to the current Garmin watches, and some desirable enhancements. In some instances what has been classified as an issue could also be deemed a bug.
 
 Everything has been captured as Github "issues", and this page serves as table of contents with perceived priorities. Anything pertaining to accurate GNSS data is deemed to be priority 1, and everything else is priority 2. 
 
@@ -11,6 +13,7 @@ Everything has been captured as Github "issues", and this page serves as table o
 | ------------------------------------------------------------ | :---------: | :------: |
 | [Request for 5 Hz logging of GPS data](https://github.com/Logiqx/garmin-issues/issues/6) |      ✅      |    1     |
 | [Request for accuracy estimates - hAcc and sAcc](https://github.com/Logiqx/garmin-issues/issues/8) |      ✅      |    1     |
+| [Request for satellite info - num sats and HDOP](https://github.com/Logiqx/garmin-feedback/issues/17) |      ✅      |    1     |
 | [Request for speed and course in Garmin GPX files](https://github.com/Logiqx/garmin-issues/issues/16) |      ✅      |    2     |
 | [Request for export feature in Garmin Connect phone app](https://github.com/Logiqx/garmin-issues/issues/9) |      ✅      |    2     |
 | [Request for Wingfoiling activity profile](https://github.com/Logiqx/garmin-issues/issues/10) |      ✅      |    2     |
