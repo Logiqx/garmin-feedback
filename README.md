@@ -3,7 +3,7 @@ Garmin watches have been gaining popularity for sites such as [GPS-Speedsurfing]
 
 This Github repository describes a number of issues + bugs relating to the current Garmin watches, and some desirable enhancements. In some instances what has been classified as an issue could also be deemed a bug.
 
-Everything has been captured as Github "issues", and this page serves as table of contents with perceived priorities. Anything pertaining to accurate GNSS data is deemed to be priority 1, and everything else is priority 2. 
+Everything has been captured as Github "issues", and this page serves as table of contents with relative priorities. Anything pertaining to accurate GNSS data is deemed to be priority 1, and everything else is priority 2. 
 
 
 
