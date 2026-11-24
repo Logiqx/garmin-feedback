@@ -16,8 +16,8 @@ Anything pertaining to accurate GNSS data is deemed to be priority 1, and everyt
 | [Request for 5 Hz logging of GPS data](https://github.com/Logiqx/garmin-issues/issues/6) |      ✅      |    1     |
 | [Request for accuracy estimates - hAcc and sAcc](https://github.com/Logiqx/garmin-issues/issues/8) |      ✅      |    1     |
 | [Request for speed and course in Garmin GPX files](https://github.com/Logiqx/garmin-issues/issues/16) |      ✅      |    2     |
-| [Request for Wingfoiling activity profile](https://github.com/Logiqx/garmin-issues/issues/10) |      ✅      |    2     |
 | [Request for export feature in Garmin Connect phone app](https://github.com/Logiqx/garmin-issues/issues/9) |      ✅      |    2     |
+| [Request for Wingfoiling activity profile](https://github.com/Logiqx/garmin-issues/issues/10) |      ✅      |    2     |
 
 
 
@@ -26,8 +26,8 @@ Anything pertaining to accurate GNSS data is deemed to be priority 1, and everyt
 | Title                                                        | Issue | Priority |
 | ------------------------------------------------------------ | :---: | :------: |
 | [FIT persistence issues - universal to all Garmin watches](https://github.com/Logiqx/garmin-issues/issues/4) |   ✅   |    1     |
-| [Toybox.Position.Info appears to be truncating "when"](https://github.com/Logiqx/garmin-issues/issues/3) |   ✅   |    1     |
 | [FIT metadata missing with newer fenix and forerunner SW](https://github.com/Logiqx/garmin-issues/issues/5) |   ✅   |    1     |
+| [Toybox.Position.Info appears to be truncating "when"](https://github.com/Logiqx/garmin-issues/issues/3) |   ✅   |    1     |
 | [CIQ Simulator does not use FIT record timestamp during playback](https://github.com/Logiqx/garmin-issues/issues/13) |   ✅   |    2     |
 | [Garmin GPX files should be GPX 1.1 compliant](https://github.com/Logiqx/garmin-issues/issues/7) |   ✅   |    2     |
 
