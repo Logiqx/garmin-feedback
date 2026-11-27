@@ -14,6 +14,7 @@ Everything has been captured as Github "issues", and this page serves as table o
 | [Request for 5 Hz logging of GPS data](https://github.com/Logiqx/garmin-issues/issues/6) |      ✅      |    1     |
 | [Request for accuracy estimates - hAcc and sAcc](https://github.com/Logiqx/garmin-issues/issues/8) |      ✅      |    1     |
 | [Request for satellite info - num sats and HDOP](https://github.com/Logiqx/garmin-feedback/issues/17) |      ✅      |    1     |
+| [Request for integration with speedsurf.app](https://github.com/Logiqx/garmin-feedback/issues/18) |      ✅      |    1     |
 | [Request for speed and course in Garmin GPX files](https://github.com/Logiqx/garmin-issues/issues/16) |      ✅      |    2     |
 | [Request for export feature in Garmin Connect phone app](https://github.com/Logiqx/garmin-issues/issues/9) |      ✅      |    2     |
 | [Request for Wingfoiling activity profile](https://github.com/Logiqx/garmin-issues/issues/10) |      ✅      |    2     |
